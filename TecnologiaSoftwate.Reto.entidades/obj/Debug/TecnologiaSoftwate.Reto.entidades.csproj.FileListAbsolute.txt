@@ -1,0 +1,6 @@
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\bin\Debug\TecnologiaSoftwate.Reto.entidades.dll
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\bin\Debug\TecnologiaSoftwate.Reto.entidades.pdb
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\obj\Debug\TecnologiaSoftwate.Reto.entidades.csproj.AssemblyReference.cache
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\obj\Debug\TecnologiaSoftwate.Reto.entidades.csproj.CoreCompileInputs.cache
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\obj\Debug\TecnologiaSoftwate.Reto.entidades.dll
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.entidades\obj\Debug\TecnologiaSoftwate.Reto.entidades.pdb

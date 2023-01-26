@@ -1,0 +1,9 @@
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\bin\Debug\TecnologiaSoftwate.Reto.AccesoDatos.dll
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\bin\Debug\TecnologiaSoftwate.Reto.AccesoDatos.pdb
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\bin\Debug\TecnologiaSoftwate.Reto.entidades.dll
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\bin\Debug\TecnologiaSoftwate.Reto.entidades.pdb
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\obj\Debug\TecnologiaSoftwate.Reto.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\obj\Debug\TecnologiaSoftwate.Reto.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\obj\Debug\TecnologiaSoftwate.Reto.AccesoDatos.csproj.CopyComplete
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\obj\Debug\TecnologiaSoftwate.Reto.AccesoDatos.dll
+C:\Users\rvenancio\source\repos\TecnologiaSoftwate.Reto.web\TecnologiaSoftwate.Reto.AccesoDatos\obj\Debug\TecnologiaSoftwate.Reto.AccesoDatos.pdb
