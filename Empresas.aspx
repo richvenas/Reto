@@ -3,9 +3,9 @@
 <!DOCTYPE html>
 
 <!DOCTYPE html>
-<html class="loading" lang="en" data-textdirection="ltr">
+<html class="loading" lang="en" data-textdirection="ltr"> 
 <!-- BEGIN: Head-->
-
+ 
 <head>
         
 <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/vendors.min.css">
