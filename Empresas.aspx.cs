@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 using TecnologiaSoftwate.Reto.entidades;
 using TecnologiaSoftwate.Reto.LogicaNegocios;
 
-namespace TecnologiaSoftwate.Reto.WEB
+namespace TecnologiaSoftwate.Reto.WEB 
 {
     public partial class Empresas : System.Web.UI.Page
     {
