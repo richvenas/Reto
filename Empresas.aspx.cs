@@ -13,7 +13,7 @@ namespace TecnologiaSoftwate.Reto.WEB
     public partial class Empresas : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
+        {   
 
         }
         [WebMethod]
